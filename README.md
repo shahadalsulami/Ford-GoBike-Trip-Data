@@ -8,7 +8,7 @@ The goal of this analysis is to explore how trip duration varies by factors such
 - **numpy:** for performing numerical and mathematical operations
 - **matplotlib:** for creating visualizations and plots
 - **seaborn:**  for advanced visualizations
-- 
+  
 ## Project Files:
 - **Part_I_exploration_template.ipynb** Focuses on discovering patterns, relationships, and insights within the data
 - **Part_I_exploration_template.html** HTML version of the Jupyter notebook
