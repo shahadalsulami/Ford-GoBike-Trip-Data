@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of Ford GoBike Trip Data
 
 ## Introduction:
-The goal of this analysis is to explore how trip duration varies by factors such as age, user type, gender, and day of the week. This investigation aims to uncover patterns in bike usage and user behavior
+This analysis focuses on the concept of **Exploratory Data Analysis (EDA)**. The goal is to explore how trip duration varies by factors such as age, user type, gender, and day of the week, aiming to uncover patterns in bike usage and user behavior
 
 ## Requirements:
 - **pandas:** for data manipulation and analysis
